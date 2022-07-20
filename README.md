@@ -1,10 +1,17 @@
+
+# THIS REPOSITORY IS ARCHIVED 
+
+# You can find an updated version of this repository at: https://github.com/LucileVG/DCA_polymorphism_Ecoli
+
+
+
 # DCA to decipher polymorphism in E. coli strains
 We use computational models based on Direct Coupling Analysis - [DCA](https://en.wikipedia.org/wiki/Direct_coupling_analysis) - trained on [PFAM](http://pfam.xfam.org/) domains of distant distant homologues to accurately predict the polymorphisms segregating in a panel of 61,157 Escherichia coli genomes. 
 
 We show that the genetic context (i.e. the rest of the protein sequence) strongly constrains the tolerable amino acids in 30% to 50% of amino-acid sites. Our study also suggests the gradual build-up of genetic context over long evolutionary timescales by the accumulation of small epistatic contributions.
 
 
-Paper: [Deciphering polymorphism in 61,157 Escherichia coli genomes via epistatic sequence landscapes](link to the paper) (Vigué L.\*,  Croce G.\*, and al. xxxxxxx , 2021)
+Paper: [Deciphering polymorphism in 61,157 Escherichia coli genomes via epistatic sequence landscapes](link to the paper) (Vigué L.\*,  Croce G.\*, and al. Nature Comm., 2021, https://www.nature.com/articles/s41467-022-31643-3)
 
 ![figure](ecoli_sequence_landscape.png)
 
